@@ -73,8 +73,12 @@ There are two parts to the software failure analysis approach. Part 1 involves c
 
 # How the team work/effort was divided and managed
 
-# 
+The group chose to collaborate on this lab as a whole. Before beginning the experiment, we installed the necessary tools and collaborated to learn how they operated. Because C-SFRAT appeared to function best with our laptops, we chose to utilise it. In order to divide the work equally, Hamza and Bilal worked on Part 1 using C-SFRAT and SRTAT, and Yousef and Issam worked on Part 2 using the RDC excel chart because Yousef and Issam were unable to use the programme on their PCs. After assembling all the relevant elements, such as failure ranges, and creating the graphs, the team members collaborated to produce the report and go over how their respective tools performed and what their results were. Overall, it was a great expereince and we learned alot from each other and the lab.
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
+During the lab, the group encountered challenges due to the incompatibility of the Mac OS with the required software (C-SFRAT), which made it difficult for half of the group to work efficiently. To overcome this issue, the group used a peer programming approach, where two working computers used C-SFRAT to visualize and analyze the data, while the other two members analyzed the visuals generated. The group also faced challenges in understanding the software's operations and principles in a short time frame, which was overcome by holding research and sandbox sessions where the software was analyzed and tested. Through collaborative research and test runs, the group gained a deep understanding of the software's demands, enabling them to collaborate on the lab analysis effectively.
+
 # Comments/feedback on the lab itself
+
+The lab experience could be improved in the future by using software that is compatible with all operating systems, providing clear instructions on how to use the tools, and allowing more time for the lab. It was difficult and time-consuming to learn how to use the tools without proper instructions, and the trial-and-error process felt like a waste of time. The students had to prioritize due to time constraints and couldn't spend as much time looking for better results.
