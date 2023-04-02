@@ -53,7 +53,23 @@ The article discusses the significance of the variations in the MTTF and how it 
 
 # Comparison of Results
 
+There are two parts to the software failure analysis approach. Part 1 involves conducting a reliability growth analysis to observe the trends in failure data and adjust test suites to reach a target reliability. Part 2 involves a reliability demonstration chart that shows the testing time to failure and is used by developers to compare against their target MTTF to determine whether to continue testing, accept, or reject the SUT. Both methods are adequate for comparing software failure data and displaying it to draw conclusions about the software's reliability and failure rates. Both methods can highlight failure rates, but some statistics are better calculated by one method over the other.
+
 # Discussion on Similarity and Differences of the Two Techniques
+
+### Similarities:
+
+- Both techniques are used to evaluate the reliability of a system.
+- Both techniques require adequate data in order to provide accurate results.
+- Both techniques identify areas in the system that are lacking in reliability.
+- Both techniques enable the analyzer to determine if the target level of reliability has been met.
+
+### Differences:
+
+- Reliability growth testing is better suited for evaluating possible future performance, while RDC is better suited to evaluate the performance of the software at the current state.
+- Reliability growth testing is a dynamic testing technique, while RDC is a static technique.
+- Reliability growth testing is an interactive process, while RDC uses a one-time analysis.
+- Reliability growth testing is better for identifying defects, while RDC is better for demonstrating that software has met reliability requirements.
 
 # How the team work/effort was divided and managed
 
