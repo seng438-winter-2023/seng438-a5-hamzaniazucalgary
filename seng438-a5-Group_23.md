@@ -15,6 +15,8 @@ In this lab assignment, students were introduced to the fundamental concepts of 
 
 # Assessment Using Reliability Growth Testing 
 
+![](./media/7.png)
+
 # Assessment Using Reliability Demonstration Chart 
 
 # 
