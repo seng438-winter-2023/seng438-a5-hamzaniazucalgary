@@ -39,7 +39,11 @@ Below are some graphs that helped us visualize the failure intensity and time in
 
 # Assessment Using Reliability Demonstration Chart 
 
-# 
+MTTF Min
+
+![](./media/5.png)
+
+The plan for MTTFmin is shown in the accompanying picture. Using the provided failure data as input, we generated the graphic above by trial and error in order to illustrate the system's dependability. The dependability trend plotted indicates that the pattern is appropriate for our FIO (does not dive heavily into the reject range). In this instance, 100/200,000 is used to calculate the MTTF, yielding a result of 0.0005.
 
 # Comparison of Results
 
