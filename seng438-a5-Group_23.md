@@ -39,11 +39,13 @@ Below are some graphs that helped us visualize the failure intensity and time in
 
 # Assessment Using Reliability Demonstration Chart 
 
-MTTF Min
+In this analysis, three plots were created to visualize the reliability of the system using the provided failure data as input. The first plot shows the MTTFmin, which suggests an acceptable trend for the FIO without heavily diving into the reject range. The second plot shows the half MTTF, where the parameters were adjusted accordingly, resulting in a trend that dives more within the reject range. The third plot shows the twice MTTF, where the parameters were adjusted for twice the initial MTTF, resulting in a trend that dives more within the acceptable range. The changes made in the plots correspond to the number of acceptable failures, which affects the data points in the accept or reject region.
 
 ![](./media/5.png)
 
-The plan for MTTFmin is shown in the accompanying picture. Using the provided failure data as input, we generated the graphic above by trial and error in order to illustrate the system's dependability. The dependability trend plotted indicates that the pattern is appropriate for our FIO (does not dive heavily into the reject range). In this instance, 100/200,000 is used to calculate the MTTF, yielding a result of 0.0005.
+![](./media/4.png)
+
+![](./media/3.png)
 
 # Comparison of Results
 
