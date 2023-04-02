@@ -4,10 +4,10 @@
 
 | Group \#:       |   |
 |-----------------|---|
-| Student Names:  |   |
-|                 |   |
-|                 |   |
-|                 |   |
+| Student Names:  | Hamza Niaz |
+|                 | Bilal Pasha |
+|                 | Yousef Hammad |
+|                 | Issam Akthar |
 
 # Introduction
 
