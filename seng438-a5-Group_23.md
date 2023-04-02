@@ -49,6 +49,8 @@ In this analysis, three plots were created to visualize the reliability of the s
 
 ![](./media/3.png)
 
+The article discusses the significance of the variations in the MTTF and how it affects the reliability of a software system. The domain boundaries were narrowed down depending on the behavior of the graph to ensure the best fit. An MTTF value was selected as the best fit for the data set to enable most data points to fall into the passing zone without stretching the graph. This approach requires less graphed data, making it beneficial for understanding how different software parameters affect the system's reliability. However, it is limited by the need for a user to manually find the MTTF of best fit, even though it is possible to have the system generate it based on calculations and pattern data.
+
 # Comparison of Results
 
 # Discussion on Similarity and Differences of the Two Techniques
